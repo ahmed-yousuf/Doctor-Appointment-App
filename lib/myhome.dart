@@ -112,7 +112,7 @@ class MyHomePage extends StatelessWidget {
                         height: 30,
                       ),
                       Text(
-                        'Hi, Olivia',
+                        'Hi, Ahmed',
                         style: TextStyle(fontSize: 20),
                       ),
                       Text(
